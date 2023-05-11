@@ -1,0 +1,39 @@
+/Users/aleks/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/Users/aleks/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/Users/aleks/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/Users/aleks/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/Users/aleks/Projects/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/Users/aleks/Projects/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.AssemblyReference.cache
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/Users/aleks/Desktop/projekty do cv/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.AssemblyReference.cache
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/Users/aleks/Desktop/projekty do cv/C#/Bank/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
